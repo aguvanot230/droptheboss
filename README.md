@@ -1,2 +1,0 @@
-# droptheboss
-droptheboss site
